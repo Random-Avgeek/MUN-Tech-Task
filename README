@@ -1,11 +1,22 @@
 Instructions for site usage
+log in to a github accunt and access the given file named mun.html, save the file on your desktop and run it on any web browser.
+
+which tech-stack was chosen?
+the tech stacks chosen to experiment with the code and get a final output are
+-> plain HTML
+-> vanilla JS
+-> cascading style sheets
 
 
-Why this template was chosen
+Why this tech-stack was chosen?
+at the end the code has been submitted in html sheet form as it was more convinient and easy to comprehend to write on a basic level as well as is able to operate on lower data, which was neccesary due to continuos power outage in boys hostels.
 
 
-A Brief Explanation of outlining
-separate channels have been created for the explanation of various outlines
+A Brief Explanation
 
-THE BIG BLAST!
-<site-link input>
+a small explanation to be given is that the code written is a very basic form of itself giving an outline to my knowledge in html and css,
+As i supposed that no external help was allowed i was unable to mix and match different colours with each other,
+like i can code any two available colours both by names and bg color code but i am not very good when it comes to telling whether red looks better with black or blue .
+
+also a few pictures of famous freedom fighters have been put in a specific arrangement which can be easily modified to be below the text and using css a bit more intensively can be modified so as to the text is beside the image or the text is between two images.
+<br> to leave a line <strong>,<i> , many other functions have been used to dispaly the basic knowledge about the language inputs which are used to make the design appealing.
